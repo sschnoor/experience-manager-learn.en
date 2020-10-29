@@ -13,7 +13,7 @@ thumbnail: KT-6296.jpg
 
 # Analyze data with Analysis Workspace
 
-Learn how to map data captured from an Adobe Experience Manager Site to metrics and dimensions in Adobe Analytics report suites. Learn how to build a detailed reporting dashboard using the Analysis Workspace feature of Adobe Analytics. 
+In this tutorial, you will learn how to map data captured from an Adobe Experience Manager website to metrics and dimensions in an Adobe Analytics report suite. Using a ficticious company, WKND, the tutorial will show how the WKND marketing team can build a detailed reporting dashboard using Analysis Workspace. 
 
 ## What you will build
 
